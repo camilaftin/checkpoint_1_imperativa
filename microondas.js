@@ -88,7 +88,7 @@ switch(opcao){
   break;
   case 3: carne(tempo);
   break;
-  case 4: feiajo(tempo);
+  case 4: feijao(tempo);
   break;
   case 5: brigadeiro(tempo);
   break;
