@@ -80,6 +80,10 @@ console.log("1 - Pipoca - 10 segundos\n" +
             "5 - Brigadeiro - 8 segundos\n"
             );
 
+/* informar aqui a opcao e o tempo desejado*/
+opcao = 3;
+tempo = 15;
+
 /*opcoes do menu e chamada da funcao*/
 switch(opcao){
   case 1: pipoca(tempo);
@@ -94,10 +98,4 @@ switch(opcao){
   break;
   default: console.log("Prato inexistente");
 }
-
-/* informar aqui a opcao e o tempo desejado*/
-opcao = 3;
-tempo = 15;
-
-
 
